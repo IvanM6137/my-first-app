@@ -118,3 +118,15 @@ h1 {
     background: #4f46e5;
     flex-shrink: 0;
 }
+
+.app > p.goal {
+    max-width: 400px;
+    margin: 16px auto 0;
+    padding: 14px 20px;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #4338ca;
+    background: rgba(238, 242, 255, 0.8);
+    border: 1px solid #c7d2fe;
+    border-radius: 16px;
+}
